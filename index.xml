@@ -33,6 +33,49 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 05:56:09 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
+&lt;h1 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown:&lt;/h1&gt;
+&lt;p&gt;To create a title, use the sign ( # ), for example, look above! Do you see big text? It is the title!&lt;/p&gt;
+&lt;p&gt;To make the text &lt;strong&gt;bold&lt;/strong&gt;, enclose it in double asterisks.&lt;/p&gt;
+&lt;p&gt;To set an &lt;em&gt;italic&lt;/em&gt; font for the text, enclose it in single asterisks.&lt;/p&gt;
+&lt;p&gt;To set &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, enclose it in triple
+asterisks.&lt;/p&gt;
+&lt;p&gt;The bulleted list can be formatted using asterisks or dashes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;yes.&lt;/li&gt;
+&lt;li&gt;it is a fact.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ordered list can be formatted using the appropriate numbers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don’t you believe me?&lt;/li&gt;
+&lt;li&gt;See for yourself.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h1&gt;
+&lt;p&gt;Implementations of Markdown are available for over a dozen programming languages; in addition, many platforms and frameworks support Markdown. For example, Markdown plugins exist for every major blogging platform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I spent last week</title>
+      <link>https://example.com/post/last_week1/</link>
+      <pubDate>Sat, 14 May 2022 05:17:42 +0300</pubDate>
+      <guid>https://example.com/post/last_week1/</guid>
+      <description>&lt;h1 id=&#34;has-this-week-been-productive&#34;&gt;Has this week been productive?&lt;/h1&gt;
+&lt;p&gt;A week ago, I promised myself that I would spend this week &lt;strong&gt;even more productively&lt;/strong&gt; than last week. I hope I managed to do it.&lt;/p&gt;
+&lt;p&gt;This week I was still very busy studying. I did a lot of homework 📖, worked in classes at the university 📚, studied additional material 💻.&lt;/p&gt;
+&lt;p&gt;Of course I &lt;strong&gt;did not forget about the rest&lt;/strong&gt;. I managed to watch a couple of episodes of my favorite TV show 🎬, read a little 📚 and meet with friends 🎉.&lt;/p&gt;
+&lt;p&gt;However, this &lt;strong&gt;was not enough for me to feel good&lt;/strong&gt;, this week I felt very &lt;strong&gt;stressed&lt;/strong&gt; and &lt;strong&gt;tired&lt;/strong&gt;. Therefore, I hope that next week I will be able to distribute time both to study and to rest in order to feel better.&lt;/p&gt;
+&lt;h1 id=&#34;in-general&#34;&gt;In general,&lt;/h1&gt;
+&lt;p&gt;spring has finally come! 🌿🌺🌞 We should leave the house more often and go out with our loved ones. But we can do this only after all the cases are finished.&lt;/p&gt;
+&lt;p&gt;That is why I &lt;strong&gt;hope&lt;/strong&gt; that next week will be no less &lt;strong&gt;productive&lt;/strong&gt; and &lt;strong&gt;interesting&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Sat, 07 May 2022 15:37:13 +0300</pubDate>
