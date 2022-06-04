@@ -4,56 +4,56 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://aoaristova.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://aoaristova.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://aoaristova.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://aoaristova.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://aoaristova.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="https://aoaristova.github.io/event/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-28T05:43:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/</loc><lastmod>2022-05-28T05:43:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://aoaristova.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://aoaristova.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/progr_and_s/</loc><lastmod>2022-05-28T05:43:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://aoaristova.github.io/post/progr_and_s/</loc><lastmod>2022-05-28T05:43:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/last_week3/</loc><lastmod>2022-05-28T05:43:10+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/last_week3/</loc><lastmod>2022-05-28T05:43:10+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week3/"
+      href="https://aoaristova.github.io/ru/post/last_week3/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week3/"
+      href="https://aoaristova.github.io/post/last_week3/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-21T06:28:36+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -68,194 +68,164 @@
   <url>
     <loc></loc><lastmod>2022-05-21T06:28:36+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/report/</loc><lastmod>2022-05-21T06:28:36+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/report/</loc><lastmod>2022-05-21T06:28:36+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/report/"
+      href="https://aoaristova.github.io/ru/post/report/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/report/"
+      href="https://aoaristova.github.io/post/report/"
     /></url>
   <url>
-    <loc>https://example.com/post/last_week2/</loc><lastmod>2022-05-21T06:14:34+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/last_week2/</loc><lastmod>2022-05-21T06:14:34+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week2/"
+      href="https://aoaristova.github.io/ru/post/last_week2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week2/"
+      href="https://aoaristova.github.io/post/last_week2/"
     /></url>
   <url>
-    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-14T05:56:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/markdown/</loc><lastmod>2022-05-14T05:56:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markdown/"
+      href="https://aoaristova.github.io/ru/post/markdown/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markdown/"
+      href="https://aoaristova.github.io/post/markdown/"
     /></url>
   <url>
-    <loc>https://example.com/post/lastest-1/</loc><lastmod>2022-05-14T05:56:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/lastest-1/</loc><lastmod>2022-05-14T05:56:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/lastest-1/"
+      href="https://aoaristova.github.io/ru/post/lastest-1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/lastest-1/"
+      href="https://aoaristova.github.io/post/lastest-1/"
     /></url>
   <url>
-    <loc>https://example.com/post/last_week1/</loc><lastmod>2022-05-14T05:17:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/last_week1/</loc><lastmod>2022-05-14T05:17:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week1/"
+      href="https://aoaristova.github.io/ru/post/last_week1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week1/"
+      href="https://aoaristova.github.io/post/last_week1/"
     /></url>
   <url>
-    <loc>https://example.com/post/systemd/</loc><lastmod>2022-05-14T05:17:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/systemd/</loc><lastmod>2022-05-14T05:17:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/systemd/"
+      href="https://aoaristova.github.io/ru/post/systemd/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/systemd/"
+      href="https://aoaristova.github.io/post/systemd/"
     /></url>
   <url>
-    <loc>https://example.com/post/git/</loc><lastmod>2022-05-07T15:37:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/git/</loc><lastmod>2022-05-07T15:37:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/git/"
+      href="https://aoaristova.github.io/ru/post/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/git/"
+      href="https://aoaristova.github.io/post/git/"
     /></url>
   <url>
-    <loc>https://example.com/post/last_week/</loc><lastmod>2022-05-07T13:54:59+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/post/last_week/</loc><lastmod>2022-05-07T13:54:59+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week/"
+      href="https://aoaristova.github.io/ru/post/last_week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week/"
+      href="https://aoaristova.github.io/post/last_week/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://aoaristova.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://aoaristova.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://aoaristova.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://aoaristova.github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://aoaristova.github.io/ru/tag/deep-learning/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://aoaristova.github.io/tag/deep-learning/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://aoaristova.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://aoaristova.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://aoaristova.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://aoaristova.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://aoaristova.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://aoaristova.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://aoaristova.github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://aoaristova.github.io/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://aoaristova.github.io/ru/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/publication_types/"
-    /></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/publication/"
+      href="https://aoaristova.github.io/publication/example/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -268,12 +238,42 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://aoaristova.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/categories/"
+      href="https://aoaristova.github.io/ru/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/categories/"
+      href="https://aoaristova.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://aoaristova.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://aoaristova.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://aoaristova.github.io/publication/"
+    /></url>
+  <url>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
+    <loc>https://aoaristova.github.io/categories/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://aoaristova.github.io/ru/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://aoaristova.github.io/categories/"
     /></url></urlset>

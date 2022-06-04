@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arina O. Aristova</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aoaristova.github.io/</link>
+      <atom:link href="https://aoaristova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Arina O. Aristova</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aoaristova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Arina O. Aristova</title>
-      <link>https://example.com/</link>
+      <link>https://aoaristova.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://aoaristova.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://aoaristova.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Science and Programming 🖱️</title>
-      <link>https://example.com/post/progr_and_s/</link>
+      <link>https://aoaristova.github.io/post/progr_and_s/</link>
       <pubDate>Sat, 28 May 2022 05:43:37 +0300</pubDate>
-      <guid>https://example.com/post/progr_and_s/</guid>
+      <guid>https://aoaristova.github.io/post/progr_and_s/</guid>
       <description>&lt;p&gt;Programming is often mentioned in an applied context. 🖥️ It seems that only mobile applications, Internet systems and special effects for cinema are created with its help. But initially programming was intended to solve scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who decide to link their careers with computer development.&lt;/p&gt;
 &lt;p&gt;Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.&lt;/p&gt;
 &lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>What was my last week like?</title>
-      <link>https://example.com/post/last_week3/</link>
+      <link>https://aoaristova.github.io/post/last_week3/</link>
       <pubDate>Sat, 28 May 2022 05:43:10 +0300</pubDate>
-      <guid>https://example.com/post/last_week3/</guid>
+      <guid>https://aoaristova.github.io/post/last_week3/</guid>
       <description>&lt;p&gt;Every week I make a wish that I will spend the next week more productively and interestingly. Surely, you have already noticed this in my regular posts.&lt;/p&gt;
 &lt;p&gt;As for this week, it&amp;rsquo;s hard to say whether it worked out this time.&lt;/p&gt;
 &lt;p&gt;On the one hand 🐇, I did not make much progress in my studies this week, although I still answered in class and did all my homework.&lt;/p&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Report</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://aoaristova.github.io/post/report/</link>
       <pubDate>Sat, 21 May 2022 06:28:36 +0300</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://aoaristova.github.io/post/report/</guid>
       <description>&lt;h1 id=&#34;lets-tell-about-report-&#34;&gt;Let&amp;rsquo;s tell about report! 📝&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Every week&lt;/strong&gt;&lt;/em&gt; we do laboratory work. Then we should prepare a report on our labs. We perform reports for laboratory work in the lightweight markup language &lt;strong&gt;markdown&lt;/strong&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;what-is-markdown-ℹ&#34;&gt;What is MARKDOWN? ℹ️&lt;/h1&gt;
@@ -88,9 +88,9 @@ Next, we describe the &lt;em&gt;purpose&lt;/em&gt; of the laboratory work, the &
     
     <item>
       <title>New post about last week again!</title>
-      <link>https://example.com/post/last_week2/</link>
+      <link>https://aoaristova.github.io/post/last_week2/</link>
       <pubDate>Sat, 21 May 2022 06:14:34 +0300</pubDate>
-      <guid>https://example.com/post/last_week2/</guid>
+      <guid>https://aoaristova.github.io/post/last_week2/</guid>
       <description>&lt;p&gt;Two weeks ago, I decided to spend the next week better than the previous one. And a week ago I promised that this week would be more colorful and productive&amp;hellip;🥀💮🌼&lt;/p&gt;
 &lt;h1 id=&#34;but-did-i-manage-to-keep-my-promise&#34;&gt;But did I manage to keep my promise?&lt;/h1&gt;
 &lt;p&gt;I &lt;strong&gt;didn&amp;rsquo;t waste any time&lt;/strong&gt; this week again. I studied a lot 📚, did all the tasks 🖋️, read 📖, watched TV shows 📺. But unfortunately, I didn&amp;rsquo;t even get to meet my friends this week 😭.&lt;/p&gt;
@@ -105,9 +105,9 @@ Next, we describe the &lt;em&gt;purpose&lt;/em&gt; of the laboratory work, the &
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://aoaristova.github.io/post/markdown/</link>
       <pubDate>Sat, 14 May 2022 05:56:09 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://aoaristova.github.io/post/markdown/</guid>
       <description>&lt;p&gt;Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
 &lt;h1 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown:&lt;/h1&gt;
 &lt;p&gt;To create a title, use the sign ( # ), for example, look above! Do you see big text? It is the title!&lt;/p&gt;
@@ -132,9 +132,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>The last post about the last week!</title>
-      <link>https://example.com/post/lastest-1/</link>
+      <link>https://aoaristova.github.io/post/lastest-1/</link>
       <pubDate>Sat, 14 May 2022 05:56:09 +0300</pubDate>
-      <guid>https://example.com/post/lastest-1/</guid>
+      <guid>https://aoaristova.github.io/post/lastest-1/</guid>
       <description>&lt;p&gt;The study is finally ending. This is the last post about the past week this year.&lt;/p&gt;
 &lt;p&gt;It was an interesting adventure. A lot has been done, created and studied this year.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve done a lot of work this week. I have completed the last laboratory work in this discipline. Unfortunately, I didn&amp;rsquo;t have time to meet my friends again, but I had to be patient a little bit, and it will happen more often!&lt;/p&gt;
@@ -147,9 +147,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>How I spent last week</title>
-      <link>https://example.com/post/last_week1/</link>
+      <link>https://aoaristova.github.io/post/last_week1/</link>
       <pubDate>Sat, 14 May 2022 05:17:42 +0300</pubDate>
-      <guid>https://example.com/post/last_week1/</guid>
+      <guid>https://aoaristova.github.io/post/last_week1/</guid>
       <description>&lt;h1 id=&#34;has-this-week-been-productive&#34;&gt;Has this week been productive?&lt;/h1&gt;
 &lt;p&gt;A week ago, I promised myself that I would spend this week &lt;strong&gt;even more productively&lt;/strong&gt; than last week. I hope I managed to do it.&lt;/p&gt;
 &lt;p&gt;This week I was still very busy studying. I did a lot of homework 📖, worked in classes at the university 📚, studied additional material 💻.&lt;/p&gt;
@@ -163,9 +163,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>SystemD</title>
-      <link>https://example.com/post/systemd/</link>
+      <link>https://aoaristova.github.io/post/systemd/</link>
       <pubDate>Sat, 14 May 2022 05:17:42 +0300</pubDate>
-      <guid>https://example.com/post/systemd/</guid>
+      <guid>https://aoaristova.github.io/post/systemd/</guid>
       <description>&lt;p&gt;In UNIX-like operating systems, and in Linux in particular, after the kernel is loaded, the initialization of the Linux system, services, and components begins. The initialization process is responsible for this, it is started by the kernel after the end of the boot and has a PID of 1, it is also executed while the system is running. But about everything in order!&lt;/p&gt;
 &lt;h1 id=&#34;what-is-an-initialization-system&#34;&gt;What is an initialization system?&lt;/h1&gt;
 &lt;p&gt;Even when we just start the operating system, literally open, for example, a terminal, a large number of processes are already running. Although we did not launch them manually, they were launched automatically by other programs.&lt;/p&gt;
@@ -188,9 +188,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>Git</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://aoaristova.github.io/post/git/</link>
       <pubDate>Sat, 07 May 2022 15:37:13 +0300</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://aoaristova.github.io/post/git/</guid>
       <description>&lt;h1 id=&#34;lets-talk-about-version-control-git&#34;&gt;Let&amp;rsquo;s talk about version control Git.&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Version Control Systems (VCS)&lt;/strong&gt;&lt;/em&gt; are used when several people work on one project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, roll back to any earlier version of the project, if required.&lt;/p&gt;
 &lt;p&gt;In classical version control systems, a centralized model is used, assuming a single repository for storing files. Most version control functions are performed by a special server. The project participant (user) receives the version of files he needs before starting work through certain commands. After making changes, the user places the new version in the repository. At the same time, previous versions are not deleted from the central repository and you can return to them at any time.&lt;/p&gt;
@@ -201,9 +201,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/last_week/</link>
+      <link>https://aoaristova.github.io/post/last_week/</link>
       <pubDate>Sat, 07 May 2022 13:54:59 +0300</pubDate>
-      <guid>https://example.com/post/last_week/</guid>
+      <guid>https://aoaristova.github.io/post/last_week/</guid>
       <description>&lt;h2 id=&#34;this-week-has-been-productive&#34;&gt;This week has been productive.&lt;/h2&gt;
 &lt;p&gt;Thank you for reading this post. I will tell. how I spent this week. This week has been quite productive. I completed all my homework, actively worked in classes at the institute. In addition, I also had time to watch TV shows, read a book and meet friends. I plan to do even more next week.&lt;/p&gt;
 &lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week.&lt;/h2&gt;
@@ -213,9 +213,9 @@ asterisks.&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://aoaristova.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://aoaristova.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -338,9 +338,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Intel 🖥  🖥️ 💻</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://aoaristova.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://aoaristova.github.io/project/example/</guid>
       <description>&lt;h1 id=&#34;lets-talk-about-intel-&#34;&gt;Let’s talk about Intel! 🖥️&lt;/h1&gt;
 &lt;p&gt;For sure, many people know the prototype of the emergence of successful technology firms: a modest beginning, a struggle with circumstances, outsider founders and more. For example, it is enough to recall Bill Gates with Microsoft or Steve Jobs with Apple, who started their activities literally in basements or garages. But Intel was created differently.&lt;/p&gt;
 &lt;p&gt;The founders of the company were not young ambitious rebels, but respectable men who had a solid reputation in the industry at that time. Gordon Moore and Robert Noyce did not need to look for money for years to launch the enterprise, instead they collected $ 2.3 million in half a day. Soon they were joined as a co-founder by Andrew Grove, who for many years became the head of production at Intel. And although Robert Noyce himself often called the company a &amp;ldquo;three–headed monster,&amp;rdquo; in fact, another person was present during its creation - marketing star Bob Graham.&lt;/p&gt;
@@ -368,9 +368,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://aoaristova.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://aoaristova.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -387,9 +387,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://aoaristova.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://aoaristova.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Arina O. Aristova</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aoaristova.github.io/project/</link>
+      <atom:link href="https://aoaristova.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aoaristova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://aoaristova.github.io/project/</link>
     </image>
     
     <item>
       <title>Intel 🖥  🖥️ 💻</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://aoaristova.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://aoaristova.github.io/project/example/</guid>
       <description>&lt;h1 id=&#34;lets-talk-about-intel-&#34;&gt;Let’s talk about Intel! 🖥️&lt;/h1&gt;
 &lt;p&gt;For sure, many people know the prototype of the emergence of successful technology firms: a modest beginning, a struggle with circumstances, outsider founders and more. For example, it is enough to recall Bill Gates with Microsoft or Steve Jobs with Apple, who started their activities literally in basements or garages. But Intel was created differently.&lt;/p&gt;
 &lt;p&gt;The founders of the company were not young ambitious rebels, but respectable men who had a solid reputation in the industry at that time. Gordon Moore and Robert Noyce did not need to look for money for years to launch the enterprise, instead they collected $ 2.3 million in half a day. Soon they were joined as a co-founder by Andrew Grove, who for many years became the head of production at Intel. And although Robert Noyce himself often called the company a &amp;ldquo;three–headed monster,&amp;rdquo; in fact, another person was present during its creation - marketing star Bob Graham.&lt;/p&gt;

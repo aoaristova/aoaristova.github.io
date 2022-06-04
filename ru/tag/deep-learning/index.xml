@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Арина Олеговна Аристова</title>
-    <link>https://example.com/ru/tag/deep-learning/</link>
-      <atom:link href="https://example.com/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aoaristova.github.io/ru/tag/deep-learning/</link>
+      <atom:link href="https://aoaristova.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aoaristova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/ru/tag/deep-learning/</link>
+      <link>https://aoaristova.github.io/ru/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Intel 🖥  🖥️ 💻</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://aoaristova.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://aoaristova.github.io/ru/project/example/</guid>
       <description>&lt;h1 id=&#34;давайте-поговорим-об-intel-&#34;&gt;Давайте поговорим об Intel! 🖥️&lt;/h1&gt;
 &lt;p&gt;Наверняка, многим известен прототип возникновения успешных технологических фирм: скромное начало, борьба с обстоятельствами, основатели-аутсайдеры и другое. Например, достаточно вспомнить Билла Гейтса с Microsoft или Стива Джобса с Apple, которые начинали свою деятельность буквально в подвалах или гаражах. Но Intel создавалась иначе.&lt;/p&gt;
 &lt;p&gt;Основатели компании были не молодыми амбициозными бунтарями, а респектабельными мужчинами, имевшими на тот момент солидную репутацию в отрасли. Гордону Муру и Роберту Нойсу не нужно было годами искать деньги на запуск предприятия, вместо этого они за пол дня собрали 2.3 млн долларов. Вскоре к ним присоединился в качестве сооснователя Эндрю Гроув, который на долгие годы стал начальником производства в Intel. И хотя сам Роберт Нойс часто называл компанию «трёхглавым чудовищем», на самом деле, во время её создания присутствовал еще один человек – звезда маркетинга Боб Грэм.&lt;/p&gt;
