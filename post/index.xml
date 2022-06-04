@@ -14,9 +14,9 @@
     
     <item>
       <title>Science and Programming 🖱️</title>
-      <link>https://example.com/post/programming_and_science/</link>
+      <link>https://example.com/post/progr_and_s/</link>
       <pubDate>Sat, 28 May 2022 05:43:37 +0300</pubDate>
-      <guid>https://example.com/post/programming_and_science/</guid>
+      <guid>https://example.com/post/progr_and_s/</guid>
       <description>&lt;p&gt;Programming is often mentioned in an applied context. 🖥️ It seems that only mobile applications, Internet systems and special effects for cinema are created with its help. But initially programming was intended to solve scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who decide to link their careers with computer development.&lt;/p&gt;
 &lt;p&gt;Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.&lt;/p&gt;
 &lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
@@ -111,6 +111,21 @@ asterisks.&lt;/p&gt;
     </item>
     
     <item>
+      <title>The last post about the last week!</title>
+      <link>https://example.com/post/lastest-1/</link>
+      <pubDate>Sat, 14 May 2022 05:56:09 +0300</pubDate>
+      <guid>https://example.com/post/lastest-1/</guid>
+      <description>&lt;p&gt;The study is finally ending. This is the last post about the past week this year.&lt;/p&gt;
+&lt;p&gt;It was an interesting adventure. A lot has been done, created and studied this year.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve done a lot of work this week. I have completed the last laboratory work in this discipline. Unfortunately, I didn&amp;rsquo;t have time to meet my friends again, but I had to be patient a little bit, and it will happen more often!&lt;/p&gt;
+&lt;p&gt;Very soon we will go on a well-deserved vacation! It&amp;rsquo;s been a busy and interesting year, but we&amp;rsquo;re all tired. And this means that we need to rest!&lt;/p&gt;
+&lt;p&gt;With best wishes! 💖&lt;/p&gt;
+&lt;p&gt;See you soon! 💖&lt;/p&gt;
+&lt;p&gt;Arina 💖&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How I spent last week</title>
       <link>https://example.com/post/last_week1/</link>
       <pubDate>Sat, 14 May 2022 05:17:42 +0300</pubDate>
@@ -123,6 +138,31 @@ asterisks.&lt;/p&gt;
 &lt;h1 id=&#34;in-general&#34;&gt;In general,&lt;/h1&gt;
 &lt;p&gt;spring has finally come! 🌿🌺🌞 We should leave the house more often and go out with our loved ones. But we can do this only after all the cases are finished.&lt;/p&gt;
 &lt;p&gt;That is why I &lt;strong&gt;hope&lt;/strong&gt; that next week will be no less &lt;strong&gt;productive&lt;/strong&gt; and &lt;strong&gt;interesting&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SystemD</title>
+      <link>https://example.com/post/systemd/</link>
+      <pubDate>Sat, 14 May 2022 05:17:42 +0300</pubDate>
+      <guid>https://example.com/post/systemd/</guid>
+      <description>&lt;p&gt;In UNIX-like operating systems, and in Linux in particular, after the kernel is loaded, the initialization of the Linux system, services, and components begins. The initialization process is responsible for this, it is started by the kernel after the end of the boot and has a PID of 1, it is also executed while the system is running. But about everything in order!&lt;/p&gt;
+&lt;h1 id=&#34;what-is-an-initialization-system&#34;&gt;What is an initialization system?&lt;/h1&gt;
+&lt;p&gt;Even when we just start the operating system, literally open, for example, a terminal, a large number of processes are already running. Although we did not launch them manually, they were launched automatically by other programs.&lt;/p&gt;
+&lt;p&gt;Each of our actions in the operating system, in fact, is some kind of program. For example, just logging in, launching the browser, and so on. To make all this happen, certain processes are started. Such programs are called daemons.&lt;/p&gt;
+&lt;p&gt;That is, it turns out that in order for the same login to be performed or to the browser, certain daemons must work. In turn, in order for them to work, they must be somehow launched by someone or something. This is what the INITIALIZATION SYSTEM is designed for!&lt;/p&gt;
+&lt;p&gt;There are various Linux initialization systems: SYSTEM V INIT, OPENRC, RUNINIT, UPSTART. But I&amp;rsquo;m going to talk about SystemD today. This initialization system was first introduced by default in Fedora 15, and is now already used in many popular Linux distributions, for example, CentOS. For example, I looked at which initialization system is on my virtual machine (Linux, Fedora distribution), and it&amp;rsquo;s SystemD.&lt;/p&gt;
+&lt;p&gt;The initialization system is the first process launched in the user space. Its PID (Process ID) is 1.&lt;/p&gt;
+&lt;h1 id=&#34;how-did-systemd-appear&#34;&gt;How did SystemD appear?&lt;/h1&gt;
+&lt;p&gt;SystemD was developed by Red Hat software engineers Lennart Poetering and Kay Sievers. Initially, it was a project to replace the standard well-known Linux System V init in 2010.&lt;/p&gt;
+&lt;p&gt;An experimental version of SystemD was already presented in April 2010 in the Poettering blog called &amp;ldquo;Rethinking PID 1&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;In May 2011, Fedora included SystemD by default for the first time, replacing the standard SysVinit at that time.&lt;/p&gt;
+&lt;p&gt;Further, the developers argued a lot about the functionality and advantages of SystemD and SysVinit. Some even believed that the dislike and carping about SystemD were based not so much on real shortcomings as personal dislike of developers and undesirable attitudes towards change processes.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s go back to the SystemD initialization system, its work. After starting, the initialization system should start the daemons. But this is not just a list of programs that should be run. Some of them need to be launched before others, some programs may conflict with each other, and so on. Therefore, it is necessary to determine which programs and when to run, to enable the user to decide which programs to run and which not to run. These are the tasks that SystemD faces.&lt;/p&gt;
+&lt;p&gt;In general, it should be understood that the role of the initialization system, in short, is to launch the OS. That is, the purpose of the initialization system is to make sure that all the daemons necessary for the correct operation of certain processes are started. However, SystemD is not just an initialization system. SystemD positions itself as a system and service manager, it binds and replaces many OS components, that is, it is responsible for much more.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h1&gt;
+&lt;p&gt;SystemD is a service initialization and management system in Linux, which in the 2010s practically replaced the Init initialization system, which was traditional, which was not accepted unambiguously, but is still used in many distributions today. The main goal is to have full control over all processes during their startup and before their completion.&lt;/p&gt;
+&lt;p&gt;Thus, SystemD is a relatively young Linux initialization system, for the first time the SystemD initialization system appeared by default in Fedora 15, and then began to be used in many popular Linux OS distributions. SystemD is not only an initialization process that supports a large number of features, but also a set of tools that allow you to manage the services and capabilities of the system.&lt;/p&gt;
 </description>
     </item>
     
